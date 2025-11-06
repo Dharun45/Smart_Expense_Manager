@@ -1,0 +1,7 @@
+{
+  "type": "java",
+  "name": "Launch SmartExpenseManager",
+  "request": "launch",
+  "mainClass": "app.MainApp",
+  "vmArgs": "--module-path \"C:\\\\javafx-sdk-23\\\\lib\" --add-modules javafx.controls,javafx.fxml"
+}
